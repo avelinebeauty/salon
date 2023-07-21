@@ -914,12 +914,14 @@ section {
 }
 
 .menu .menu-content span {
+  display: none;
   background: #fff;
   position: relative;
   z-index: 3;
   padding: 0 10px;
   font-weight: 600;
 }
+
 
 .menu .menu-ingredients {
   font-style: italic;
